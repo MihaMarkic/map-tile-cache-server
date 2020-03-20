@@ -259,7 +259,7 @@ output
 
 # Xamarin.Android Resource.Designer.cs files
 **/[Rr]esource.[Dd]esigner.cs
-/sources/tools/**
-!/sources/tools/packages.config
+/tools/**
+!/tools/packages.config
 # Don't store google services metadata as it contains keys
 google-services.json
